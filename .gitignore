@@ -1,3 +1,5 @@
 vendor/*
 composer.lock
 storage/cache/*
+config.php
+storage/sessions/*
